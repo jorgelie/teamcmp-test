@@ -1,0 +1,15 @@
+{
+    "sites": {
+        "glorf":{
+            "importer": "importJson",
+            "filename": "glorf",
+            "extension": ".json"
+        },
+        "flub":{
+            "importer": "importYaml",
+            "filename": "flub",
+            "extension": ".yaml"
+        }
+    },
+    "feed_folder": "feed-exports/"
+}
