@@ -1,5 +1,5 @@
 # TeamCMP Importer by Jorge Escalante
-This project was made with PHP v5.6.37 and tests with PHPUnit v5.7.27.
+This project was made in windows with PHP v5.6.37 and tests with PHPUnit v5.7.27.
 TeamCMP Importer process a file already in your local in order to store its title, url and tags in a database.
 At this moment there are two filetypes implemented: `JSON` and `YAML`
 ### Installation
